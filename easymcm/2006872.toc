@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.0.1}% 
+\contentsline {subsection}{\numberline {1.1}Problem Background}{2}{subsection.0.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Restatement of the problem}{2}{subsection.0.1.2}% 
+\contentsline {section}{\numberline {2}Preparation of the Models}{3}{section.0.2}% 
+\contentsline {subsection}{\numberline {2.1}Assumptions}{3}{subsection.0.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Notations}{3}{subsection.0.2.2}% 
+\contentsline {section}{\numberline {3}Model 1: Optimized Logistic Population Model}{3}{section.0.3}% 
+\contentsline {subsection}{\numberline {3.1}Logistic Model for Population Projection}{3}{subsection.0.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Autoregression Based on Difference Sequence}{4}{subsection.0.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Solution and Visualization}{5}{subsection.0.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Conclusion}{7}{subsubsection.0.3.3.1}% 
+\contentsline {subsection}{\numberline {3.4}Sensitivity Analysis}{7}{subsection.0.3.4}% 
+\contentsline {subsubsection}{\numberline {3.4.1}Coefficient a}{8}{subsubsection.0.3.4.1}% 
+\contentsline {section}{\numberline {4}Model 2:Geographic distribution}{8}{section.0.4}% 
+\contentsline {subsection}{\numberline {4.1}Markov Chain Model}{8}{subsection.0.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Solutions and simulation image}{9}{subsection.0.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Sensitivity analysis of Markov chain}{10}{subsection.0.4.3}% 
+\contentsline {section}{\numberline {5}Model 3: Location Model}{11}{section.0.5}% 
+\contentsline {subsection}{\numberline {5.1}Weighted-Topsis for location}{12}{subsection.0.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Weighted K-Means Clustering for area}{16}{subsection.0.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Solution and Analysis of Location Model}{17}{subsection.0.5.3}% 
+\contentsline {subsection}{\numberline {5.4}Sensitivity Analysis}{20}{subsection.0.5.4}% 
+\contentsline {section}{Memo}{21}{section.0.6}% 
+\contentsline {section}{References}{22}{section.1.6}% 
+\contentsline {section}{Appendix}{23}{section*.25}% 
+\contentsfinish 

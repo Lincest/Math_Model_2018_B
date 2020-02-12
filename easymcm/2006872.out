@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.0.1.1}{Problem Background}{section.0.1}% 2
+\BOOKMARK [2][-]{subsection.0.1.2}{Restatement of the problem}{section.0.1}% 3
+\BOOKMARK [1][-]{section.0.2}{Preparation of the Models}{}% 4
+\BOOKMARK [2][-]{subsection.0.2.1}{Assumptions}{section.0.2}% 5
+\BOOKMARK [2][-]{subsection.0.2.2}{Notations}{section.0.2}% 6
+\BOOKMARK [1][-]{section.0.3}{Model 1: Optimized Logistic Population Model}{}% 7
+\BOOKMARK [2][-]{subsection.0.3.1}{Logistic Model for Population Projection}{section.0.3}% 8
+\BOOKMARK [2][-]{subsection.0.3.2}{Autoregression Based on Difference Sequence}{section.0.3}% 9
+\BOOKMARK [2][-]{subsection.0.3.3}{Solution and Visualization}{section.0.3}% 10
+\BOOKMARK [3][-]{subsubsection.0.3.3.1}{Conclusion}{subsection.0.3.3}% 11
+\BOOKMARK [2][-]{subsection.0.3.4}{Sensitivity Analysis}{section.0.3}% 12
+\BOOKMARK [3][-]{subsubsection.0.3.4.1}{Coefficient a}{subsection.0.3.4}% 13
+\BOOKMARK [1][-]{section.0.4}{Model 2:Geographic distribution}{}% 14
+\BOOKMARK [2][-]{subsection.0.4.1}{Markov Chain Model}{section.0.4}% 15
+\BOOKMARK [2][-]{subsection.0.4.2}{Solutions and simulation image}{section.0.4}% 16
+\BOOKMARK [2][-]{subsection.0.4.3}{Sensitivity analysis of Markov chain}{section.0.4}% 17
+\BOOKMARK [1][-]{section.0.5}{Model 3: Location Model}{}% 18
+\BOOKMARK [2][-]{subsection.0.5.1}{Weighted-Topsis for location}{section.0.5}% 19
+\BOOKMARK [2][-]{subsection.0.5.2}{Weighted K-Means Clustering for area}{section.0.5}% 20
+\BOOKMARK [2][-]{subsection.0.5.3}{Solution and Analysis of Location Model}{section.0.5}% 21
+\BOOKMARK [2][-]{subsection.0.5.4}{Sensitivity Analysis}{section.0.5}% 22
+\BOOKMARK [1][-]{section.0.6}{Memo}{}% 23
+\BOOKMARK [1][-]{section.1.6}{References}{}% 24
+\BOOKMARK [1][-]{section*.25}{Appendix}{}% 25
